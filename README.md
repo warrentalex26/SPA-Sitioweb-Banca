@@ -4,6 +4,6 @@ Esta pagina web esta hecha SIN LIBRERIAS!. Lo unico que ocupe fue google fonts p
 
 Puede ver el sitio en funcionamiento por ahora aca: https://warrentalex26.github.io/SPA-Sitioweb-Banca/
 
-![SPA](https://i.imgur.com/CX7V1AW.png)
-![SPA](https://i.imgur.com/H23ZlZM.png)
-![SPA](https://i.imgur.com/5ks0etp.png)
+![SPA](https://i.imgur.com/Re9eqpK.png)
+![SPA](https://i.imgur.com/V0QRrcZ.png)
+![SPA](https://i.imgur.com/GiJxvTD.png)
