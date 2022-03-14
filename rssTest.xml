@@ -1,44 +1,44 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
-<channel>
-<title>
-<![CDATA[ Consultorio Íntimo ]]>
-</title>
-<description>
-<![CDATA[ Ximena, Gabriel y Cintya resuelven todas tus dudas sobre tu salud sexual junto a los mejores especialistas. Deja de buscar en Internet y escucha todas las semanas un episodio de "Consultorio íntimo" ]]>
-</description>
-<link>http://utileinteresante.pe</link>
-<image>
-<url>https://crop-platform-static.cdn.mdstrm.com/show/images/5b8ea6f89ff52d0770a144c4_5de01fe7ece01b07ae82549c_1576862579634.jpg?w=1600&h=1600&fit=crop&crop=focalpoint</url>
-<title>Consultorio Íntimo</title>
-<link>http://utileinteresante.pe</link>
-</image>
-<generator>Mediastream</generator>
-<lastBuildDate>Mon, 14 Mar 2022 14:09:16 GMT</lastBuildDate>
-<atom:link href="https://mdstrm.com/feeds/america-tv/consultorio-intimo" rel="self" type="application/rss+xml"/>
-<author>
-<![CDATA[ América TV ]]>
-</author>
-<pubDate>Thu, 21 Nov 2019 19:24:50 GMT</pubDate>
-<copyright>
-<![CDATA[ All rights reserved ]]>
-</copyright>
-<language>
-<![CDATA[ es ]]>
-</language>
-<category>
-<![CDATA[ education ]]>
-</category>
-<category>
-<![CDATA[ health ]]>
-</category>
-<category>
-<![CDATA[ sexuality ]]>
-</category>
-<itunes:author>América TV</itunes:author>
-<itunes:summary>Ximena, Gabriel y Cintya resuelven todas tus dudas sobre tu salud sexual junto a los mejores especialistas. Deja de buscar en Internet y escucha todas las semanas un episodio de "Consultorio íntimo"</itunes:summary>
-<itunes:owner>
-<itunes:name>América TV</itunes:name>
-<itunes:email>atalavera@mediastre.am</itunes:email>
+  <channel>
+    <title>
+      <![CDATA[ Consultorio Íntimo ]]>
+    </title>
+    <description>
+      <![CDATA[ Ximena, Gabriel y Cintya resuelven todas tus dudas sobre tu salud sexual junto a los mejores especialistas. Deja de buscar en Internet y escucha todas las semanas un episodio de "Consultorio íntimo" ]]>
+     </description>
+    <link>http://utileinteresante.pe</link>
+    <image>
+      <url>https://crop-platform-static.cdn.mdstrm.com/show/images/5b8ea6f89ff52d0770a144c4_5de01fe7ece01b07ae82549c_1576862579634.jpg?w=1600&h=1600&fit=crop&crop=focalpoint</url>
+      <title>Consultorio Íntimo</title>
+      <link>http://utileinteresante.pe</link>
+    </image>
+    <generator>Mediastream</generator>
+    <lastBuildDate>Mon, 14 Mar 2022 14:09:16 GMT</lastBuildDate>
+    <atom:link href="https://mdstrm.com/feeds/america-tv/consultorio-intimo" rel="self" type="application/rss+xml"/>
+    <author>
+      <![CDATA[ América TV ]]>
+    </author>
+    <pubDate>Thu, 21 Nov 2019 19:24:50 GMT</pubDate>
+    <copyright>
+      <![CDATA[ All rights reserved ]]>
+    </copyright>
+    <language>
+      <![CDATA[ es ]]>
+    </language>
+    <category>
+      <![CDATA[ education ]]>
+    </category>
+    <category>
+      <![CDATA[ health ]]>
+    </category>
+    <category>
+      <![CDATA[ sexuality ]]>
+    </category>
+    <itunes:author>América TV</itunes:author>
+    <itunes:summary>Ximena, Gabriel y Cintya resuelven todas tus dudas sobre tu salud sexual junto a los mejores especialistas. Deja de buscar en Internet y escucha todas las semanas un episodio de "Consultorio íntimo"</itunes:summary>
+    <itunes:owner>
+    <itunes:name>América TV</itunes:name>
+    <itunes:email>atalavera@mediastre.am</itunes:email>
 </itunes:owner>
 <itunes:explicit>No</itunes:explicit>
 <itunes:category text="Education"/>
